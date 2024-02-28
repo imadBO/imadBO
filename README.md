@@ -9,7 +9,7 @@
 - 💬 Ask me about **Flutter, Machine learning, Image Processing, Python.**
 
 - 📫 How to reach me **imadboughelous@gmail.com**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbo" alt="imadbo" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
